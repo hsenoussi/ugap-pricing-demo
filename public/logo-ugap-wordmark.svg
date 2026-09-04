@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48">
+  <defs>
+    <style>
+      .mark { fill: #d20a11; }
+      .text { fill: #212121; font-family: Inter, system-ui, sans-serif; font-weight: 700; }
+      .sub { fill: #64748b; font-family: Inter, system-ui, sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+  <!-- Picto UGAP -->
+  <path class="mark" d="M4 8 L4 40 L28 40 L40 28 L28 16 L16 16 L16 8 Z" transform="translate(0,0) scale(0.55) translate(4,4)"/>
+  <path class="mark" d="M158.675,155.906l-23.667,56.333,56.333,23.667,23.667-56.333Z" transform="translate(-135.008 -155.906) scale(0.55) translate(4,4)"/>
+  <g transform="translate(52, 10)">
+    <text class="text" font-size="22" y="22">UGAP</text>
+    <text class="sub" font-size="11" y="38">Le choix de l&apos;achat juste</text>
+  </g>
+</svg>
