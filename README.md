@@ -2,11 +2,11 @@
 
 Démo interactive pour le cadrage IA Lab UGAP : pricing appels d'offres et veille concurrentielle.
 
-## Démo en ligne (GitHub Pages)
+## Démo en ligne
 
-Après déploiement, la démo est accessible à :
+**https://hsenoussi.github.io/ugap-pricing-demo/**
 
-`https://<votre-compte>.github.io/<nom-du-repo>/`
+Dépôt : https://github.com/hsenoussi/ugap-pricing-demo
 
 ## Développement local
 
